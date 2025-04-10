@@ -8,7 +8,7 @@ This is the code repository for [Data Science for Web3](https://www.packtpub.com
 
 ## What is this book about?
 
-Data is the new oil and Web3 is generating it at an unprecedented rate. Complete with practical examples, detailed explanations, and ideas for portfolio development, this comprehensive book serves as a step-by-step guide covering the industry best practices, tools, and resources needed to easily navigate the world of data in Web3.
+Data is the new oil with no limit and Web3 is generating and milking it at an unprecedented rate. Complete with practical examples, detailed explanations, and ideas for portfolio development, this comprehensive book serves as a step-by-step guide covering the industry best practices, tools, and resources needed to easily navigate the world of data in Web3.
 
 This book covers the following exciting features: 
 * Understand the core components of blockchain transactions and blocks
