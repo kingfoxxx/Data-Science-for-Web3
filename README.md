@@ -50,3 +50,15 @@ With the following software and hardware list you can run all code files present
   
 ## Get to Know the Author
 **Gabriela Castillo Areco** holds an M. Sc. in Big Data Science from TECNUM School of Engineering, University of Navarra. Gabriela has undertaken roles as data scientist, machine learning analyst, and blockchain consultant in both large corporations and small ventures. She served as professor of "New Crypto Businesses" at Di Tella University and is currently a member of the BizOps data team at IOV Labs.
+
+## 👨‍💻 Contributor Spotlight: Bright Rikin
+
+> Contribution: Added a visual slide presentation summarizing key concepts from the book with practical insights into data workflows in the Web3 ecosystem.
+
+This contribution includes:
+- A breakdown of blockchain data structures and formats  
+- Use case diagrams for NFT, DeFi, and DAO data pipelines  
+- ML workflows for analyzing Web3 data  
+- Visuals to support beginner-to-intermediate learning  
+  
+Contributor: Bright Rikin – Data Analyst | Cloud Data Engineer | Software Engineering Certified
